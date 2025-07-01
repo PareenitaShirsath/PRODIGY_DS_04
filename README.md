@@ -44,7 +44,7 @@ This project analyzes and visualizes sentiment patterns in social media tweets u
 ## 🧑‍💻 Author
 
 **Pareenita Shirsath**  
-🎓 3rd Year AI & Data Science Engineering  
+🎓 4th Year AI & Data Science Engineering  
 📌 Data Science Intern @ Prodigy InfoTech  
 🔗 [Connect on LinkedIn](https://www.linkedin.com)
 
